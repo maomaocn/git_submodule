@@ -1,0 +1,6 @@
+[submodule "Django-EPR-python3"]
+	path = Django-EPR-python3
+	url = git@github.com:maomaocn/Django-EPR-python3.git
+[submodule "DRFDemo"]
+	path = DRFDemo
+	url = git@github.com:maomaocn/DRFDemo.git
